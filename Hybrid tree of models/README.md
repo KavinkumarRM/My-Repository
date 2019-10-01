@@ -1,3 +1,8 @@
 <h2>Hybrid Tree of models</h2>
 
-![Image of Yaktocat](https://www.google.com/url?sa=i&source=images&cd=&ved=2ahUKEwiIs7-Ek_zkAhVrUt8KHZ-QC9UQjRx6BAgBEAQ&url=https%3A%2F%2Fskymind.ai%2Fwiki%2Fmachine-learning-algorithms&psig=AOvVaw06Q0cl_yNUSFhOmVftWFQi&ust=1570056661273318)
+Text classification and analysis of reports filed by the employees of Unnamed company. This is a special case where each record was assigned with three levels of dependent variable with many combinations of them in each level. Generated hybrid Models for each level which were assembled in a tree for a complete output Master model. 
+
+The model would look similar like a decision tree like below with each leaf containing a seperate Machine Learning Model by itself. (this is just an example)
+
+![Image of Yaktocat](https://github.com/KavinkumarRM/My-Repository/blob/master/Hybrid%20tree%20of%20models/decision_tree.png)
+Photo by : https://skymind.ai/wiki/machine-learning-algorithms
