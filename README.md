@@ -1,3 +1,3 @@
 # My-Repository
 
-I am kavinkumar Ramasamy Murthi and i am a Data Analytics Masters candidate in Penn State Great Valley. These are my projects and my accomplishments throughout my carieer.
+This is my public repository of all my academic works and my leasure time hobby works. This contains all my academic projects and my personal codes. 
